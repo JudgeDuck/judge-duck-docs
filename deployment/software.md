@@ -45,5 +45,6 @@ $ sudo update-alternatives --config gcc
 
 * CPU：关闭 Hyper-threading（如有），设置 Active Processor Cores 为 2
 * 启动：设置默认通过网络（PXE）启动
+* 集成显卡：设置共享内存大小为最小值（32MB）
 
 完成 BIOS 设置后，关闭鸭子的电源。
