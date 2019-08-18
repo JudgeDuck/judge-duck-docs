@@ -20,7 +20,7 @@ title: 评测鸭部署简介
 
 请参见[评测依赖库的配置](./libraries-for-judging.md)和[评测鸽服务的部署](./judge-pigeon-service.md)。
 
-## 部署评测鸭服务
+## 部署评测鸭在线
 
 请参见[评测鸭在线的部署](./judge-duck-service.md)。
 
