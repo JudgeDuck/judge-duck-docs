@@ -12,9 +12,9 @@ title: 评测鸭部署简介
 
 请参见[硬件配置](./hardware.md)和[软件配置](./software.md)。
 
-## 编译 JudgeDuck-OS
+## 部署 JudgeDuck-OS
 
-请参见[JudgeDuck-OS 的编译](./JudgeDuck-OS.md)。
+请参见[JudgeDuck-OS 的编译](./JudgeDuck-OS-compilation.md)和[JudgeDuck-OS 的运行](./JudgeDuck-OS-running.md)。
 
 ## 部署评测鸭服务
 
