@@ -34,7 +34,7 @@ title: 硬件配置
 * 内存：2 x 4GB DDR4-2400，型号为 KVR24N17S8/4
 * 主板：ASRock H310M-ITX/ac
 * 硬盘：无硬盘
-* 网卡：Intel® 82574L Gigabit Ethernet Controller
+* 网卡：板载千兆网卡（I219-V）
 
 ## 网络设备
 
