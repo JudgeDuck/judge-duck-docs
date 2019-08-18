@@ -16,9 +16,13 @@ title: 评测鸭部署简介
 
 请参见[JudgeDuck-OS 的编译](./JudgeDuck-OS-compilation.md)和[JudgeDuck-OS 的运行](./JudgeDuck-OS-running.md)。
 
+## 部署评测鸽服务
+
+请参见[评测依赖库的配置](./libraries-for-judging.md)和[评测鸽服务的部署](./judge-pigeon-service.md)。
+
 ## 部署评测鸭服务
 
-请参见[评测鸽服务的部署](./judge-pigeon-service.md)和[评测鸭在线的部署](./judge-duck-service.md)。
+请参见[评测鸭在线的部署](./judge-duck-service.md)。
 
 ---
 
