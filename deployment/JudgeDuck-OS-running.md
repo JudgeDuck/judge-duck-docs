@@ -20,6 +20,13 @@ $ git clone git@github.com:JudgeDuck/tftp-server.git
 $ cp JudgeDuck-OS/obj/jos-grub-* tftp-server/
 ```
 
+安装 TFTP 服务器所需的库：
+
+```bash
+$ sudo pip3 install --upgrade setuptools
+$ sudo pip3 install fbtftp
+```
+
 启动 TFTP 服务器：
 
 ```bash
